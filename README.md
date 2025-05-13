@@ -7,7 +7,7 @@ This is my first Flutter app where I explored and implemented fundamental concep
 
 ## 📱 Preview
 
-<img src="assets/images/dice-app-ss.jpg" width="300" alt="App Screenshot" />
+<img src="assets/images/dice-app-ss.jpg" height="100" alt="App Screenshot" />
 
 ---
 
